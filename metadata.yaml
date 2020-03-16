@@ -1,0 +1,37 @@
+_repo: Mahatma-Gandhi-The-Man-Who-Became-One-With-the-Universal-Being_61575
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Groth, Catherine Dase
+    birthdate: 1888
+    gutenberg_agent_id: '51496'
+    url: http://www.gutenberg.org/2009/agents/51496
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Romain_Rolland
+    - https://en.wikipedia.org/wiki/Romain_Rolland
+description: ''
+gutenberg_issued: '2020-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- India -- Biography'
+- !lcsh 'Nationalists -- India -- Biography'
+- !lcc 'DS'
+- !lcsh 'India -- Politics and government -- 1919-1947'
+- !lcsh 'Gandhi, Mahatma, 1869-1948'
+- GITenberg
+title: 'Mahatma Gandhi: The Man Who Became One With the Universal Being'
+url: http://www.gutenberg.org/ebooks/61575
