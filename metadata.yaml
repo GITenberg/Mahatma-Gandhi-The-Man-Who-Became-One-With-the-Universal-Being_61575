@@ -1,11 +1,14 @@
 _repo: Mahatma-Gandhi-The-Man-Who-Became-One-With-the-Universal-Being_61575
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Groth, Catherine Dase
     birthdate: 1888
     gutenberg_agent_id: '51496'
     url: http://www.gutenberg.org/2009/agents/51496
+covers:
+- cover_type: archival
+  image_path: 61575-h/images/gandhi_cover.jpg
 creator:
   author:
     agent_name: Rolland, Romain
@@ -18,6 +21,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Romain_Rolland
     - https://en.wikipedia.org/wiki/Romain_Rolland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61575#Mahatma-Gandhi-The-Man-Who-Became-One-With-the-Universal-Being
 gutenberg_issued: '2020-03-07'
 gutenberg_type: Text
 identifiers:
